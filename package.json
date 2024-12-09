@@ -2,20 +2,20 @@
   "name": "card-website-guitarist",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/YuliiaGagina/card-website-guitarist.git",
+  "homepage": "https://github.com/YuliiaGagina/gitarist-css-animation.git",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /card-website-guitarist/"
+    "build": "parcel build src/*.html --public-url /gitarist-css-animation/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuliiaGagina/card-website-guitarist"
+    "url": "git+https://github.com/YuliiaGagina/gitarist-css-animation"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YuliiaGagina/card-website-guitarist.git/issues"
+    "url": "https://github.com/YuliiaGagina/gitarist-css-animation.git/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
